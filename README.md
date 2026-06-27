@@ -21,5 +21,6 @@ Patch outdated services + disable anonymous ciphers.
 Monitor for --script vuln scans. That’s recon in your logs.
 
 
-# Next:Day 12: Detecting Nmap scans and writing SIEM alerts
-# Tools Used:NmapMetasploitable 2Kali Linux
+Next:Day 12: Detecting Nmap scans and writing SIEM alerts
+
+Tools Used:NmapMetasploitable 2Kali Linux
