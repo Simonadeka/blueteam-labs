@@ -12,7 +12,7 @@ To use Nmap scripts to identify vulnerabilities and weaknesses in a target syste
 3. Telnet 23/tcp: Clear-text login → Credential exposure
 4. SMTP 25/tcp: Weak ciphers → MITM risk
 
-![Day 11 Nmap Vuln Scan Output](screenshots/day04-nmap-vuln-scan.png)
+![Day 11 Nmap Vuln Scan Output](Day11-nmap-vuln-scan.png)
 
 ## Defender Takeaway:
 
