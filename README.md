@@ -14,13 +14,9 @@ To use Nmap scripts to identify vulnerabilities and weaknesses in a target syste
 
 ![Day 11 Nmap Vuln Scan Output](Day11-nmap-vuln-scan.png)
 
-## Defender Takeaway:
+### **Defender Takeaway:**
+Kill Telnet. Use SSH with keys only. Patch outdated services + disable anonymous ciphers. Monitor scans. That’s recon in your logs.
 
-Kill Telnet. Use SSH with keys only.
-Patch outdated services + disable anonymous ciphers.
-Monitor for --script vuln scans. That’s recon in your logs.
+**Next:** Day 12: Detecting Nmap scans and writing SIEM alerts
 
-
-Next:Day 12: Detecting Nmap scans and writing SIEM alerts
-
-Tools Used:NmapMetasploitable 2Kali Linux
+**Tools Used:** Nmap, Metasploitable 2, Kali Linux
